@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: serif;
+    background-color: rgb(204, 170, 136);
+}
+.right-div-p {
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+    position: relative;
+    left: 3%;
+    line-height: 2;
+}
+
+.topdiv {
+    width: 325px;
+    height: 155%;
+    position:absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-right: 0;
+    padding-right: 0;
+    background-color: rgb(42, 34, 34);
+}
+
+.pfpimage {
+    width: 325px;
+    height: 325px;
+    padding-bottom: 4px;
+
+}
+.sidehr{
+    width: 1px;
+    height: 100%;
+    margin-left: 325px;
+    margin-top: 0;
+    background-color: black;
+    border-width: 0;
+    padding-top: 0;
+    position: absolute;
+    top: 0;
+}
+.nameh1 {
+    font-weight: bold;
+    position: relative;
+    width: fit-content;
+    font-size: 29px;
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0 auto;
+}
+.profilep1 {
+    margin-top: 10%;
+    color:white;
+    text-align: center;
+
+}
+.profilep2 {
+    position: relative;
+    color:white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    left:8%;
+}
+.languagesh1 {
+    position: relative;
+    color:rgb(114, 206, 239);
+    font-size: large;
+    left:8%;
+    margin-top: 10%;
+}
+.vl {
+    float: left;
+    width: 5px;
+    height: 100px;
+    color: rgb(114, 206, 239);
+    position: relative;
+    border-width: 3px;
+    border-right: 0;
+    border-bottom: 0;
+    border-top: 0;
+    border-style: dashed;
+    border-spacing: 2px;
+    padding-left: 8%;
+    padding: 0;
+    margin-left: 8%;
+}
+.langdiv {
+    width: 325px;
+    height: 130px;
+}
+.langp {
+    position: relative;
+    text-align: left;
+
+}
+.langhr {
+    position: relative; 
+    left:10px;  
+    border-width:1px; 
+    width:50%;
+    height: 5px;
+    margin-left: 10%;
+    color: rgb(141, 133, 133);
+    border-color: rgb(141, 133, 133);
+    background-color: rgb(141, 133, 133);
+}
+.personaldiv {
+    position: relative;
+    width: 325px;
+}
+.date {
+    position: relative;
+    left: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px
+}
+.rightdiv {
+    height: 150%;
+    width: 100%;
+    position: absolute;
+    left: 330px;
+    top: 0;
+    text-align: left;
+}
+.aboutmediv {
+    position: relative;
+    left: 3%;
+    width: 50%;
+    height: fit-content;
+}
+.rightdivhr {
+    border-style: dotted;
+    height:5px;
+    width: 100%;
+    border-width: 10px;
+    position: relative;
+    left: 3%;
+    color: black;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    border-spacing: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+/*.skillsdiv {
+    width: 50%;
+    height: 10%;
+    position:relative;
+    margin-top: 30px;
+    background-color: blue;
+}*/
+.t1{
+    border-width: 5px;
+    width: 100%;
+    height: 125px;
+    padding: 5px;
+}
+td {
+    width: 20%;
+    position: relative;
+}
